@@ -1,4 +1,4 @@
 
-# Welcome to Codewell! 👋
+# Welcome! 👋
 
 This is my very first project
